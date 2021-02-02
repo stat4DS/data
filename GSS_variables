@@ -1,0 +1,26 @@
+
+Possible sources of data:
+
+Discrete var's from GSS
+
+NUMKIDS (ideal for family, 2012)
+CHLDIDEL (ideal number of children, every year)
+HOSREL1 (relatives hospitalized in last year)
+UNREL1 (relative unemployed in last year)
+SUPNUM (workers supervised)
+NUMOWN (businesses owned)
+NUMSPORT
+FRINEIGH (close friends who are neighbors, 1986)
+FRINUM 1986
+TRATOT1 (traumatic events in past year) 1984
+TRAUMA5 1994
+SEXFREQ2 (last month) 1990, PARTOPEN 1991, PARTOPN5, NUMMEN, NUMWOMEN
+OTHFRD (other friends) 2002, predictor of HAPPY??
+CHILDS (no. children 0,1,2,3,4,5), every year
+IMPKIN, IMPWORK, IMPCHURH, IMPFREND, IMPFAM, IMPPOL scale of 1-7. 1982
+DRINKMAX, 2004
+ACQNHCON, no. conservatives in nhood, 2006, highly discrete, ACQNHGAY
+et al.
+COWRKFRD, no. close friends at work, 2002
+HRSART, 1996 HRSHUMAN
+NUMDAYS (attend religious services) 1998
